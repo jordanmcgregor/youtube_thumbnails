@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+past thumbnails/
+D5100 PHOTO SHOOT GUIDE.md
